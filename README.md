@@ -1,0 +1,1 @@
+Simple Django project to demonstrate uses of class based views.
